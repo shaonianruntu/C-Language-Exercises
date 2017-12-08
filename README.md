@@ -1,1 +1,2 @@
-# C-language-exercises
+# C 语言练习题
+10周从小白到入门
